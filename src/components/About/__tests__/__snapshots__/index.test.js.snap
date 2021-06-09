@@ -5,6 +5,10 @@ exports[`About component matches snapshot DOM node structure 1`] = `
   <section
     class="my-5"
   >
+    <a
+      data-testid="about"
+      href="#about"
+    />
     <h1
       id="about"
     >
